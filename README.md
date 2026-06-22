@@ -1,4 +1,5 @@
-# Developers-Hub-Internship-Phase-2-Task2Objective
+# Developers-Hub-Internship-Phase-2-Task2
+Objective:
 Perform Exploratory Data Analysis (EDA) on customer data
 Apply K-Means clustering to segment customers
 Use PCA to visualize clusters in 2D space
